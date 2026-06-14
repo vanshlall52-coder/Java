@@ -10,6 +10,11 @@ public class BitwiseOperator {
         int f = ~a; // BItwise NOT
         
         System.out.println(c + " , " + d + " , " + e + " , " + f);
+
+        // Shift Operator
+         int g = 1;
+         g = g << 31; // Left Shift
+         System.out.println(g); // Output: 2
     }
     
 }
