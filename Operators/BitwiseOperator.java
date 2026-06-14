@@ -14,7 +14,7 @@ public class BitwiseOperator {
         // Shift Operator
          int g = 1;
          g = g << 31; // Left Shift
-         System.out.println(g); // Output: 2
+         System.out.println(g); // Output: -2147483648
     }
     
 }
