@@ -20,4 +20,14 @@
     }
  
     
-}
+}              
+    // 2nd variation of nested if
+    class NestedIf2 {
+        public void main(String[] args){
+            int x = 25;
+
+            if (x > 20 && x < 30){
+                System.out.println(" x is greater than 20 and Less than 30");
+            }
+        }
+    }
