@@ -19,6 +19,5 @@ public class StudentGradeCalculator {
         }scanner.close();
 
         
-
     }
 }
