@@ -12,6 +12,7 @@ public class VotingEligibility {
             System.out.println("Invalid age.");
         }else {
             System.out.println("You are not eligible to vote yet.");
-        }scanner.close();
+        }
+        scanner.close();
     }
 }
