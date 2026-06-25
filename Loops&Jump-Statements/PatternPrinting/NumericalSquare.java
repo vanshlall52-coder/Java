@@ -4,7 +4,7 @@ public class NumericalSquare{
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
-        System.out.print("Enter the no. or row. ");
+        System.out.print("Enter the no. of row. ");
         int row = sc.nextInt();
 
         for(int i=1;i<=row;i++){
