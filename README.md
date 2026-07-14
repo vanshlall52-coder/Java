@@ -1,10 +1,28 @@
-# java-backend-development-learning-journey
-  Welcome to my repository! Here i track my daily progress, coding practice, and Backend-development concepts step-by-step.
-  
-# Author - Vansh 
+# Java Learning
 
-## 📌 About This Repository
-- *Goal:* To master Java Backend Development (Core Java, Advanced Java, Database Engineering, and Frameworks).
-- *Structure:* Daily/Topic-wise folders containing pure source code with inline comments explaining the logic.
+This repository contains my Java practice code and topic-wise programs as I learn Java from scratch.
 
-## Topic-wise Index
+## Topics
+
+- Variables & Data Types
+- Type Conversion
+- Operators
+- Conditional Statements
+- Loops & Jump Statements
+- Functions
+- Arrays
+- Strings
+- OOP
+- Exception Handling
+- Collections
+- Multithreading
+- File Handling
+- JDBC
+- Java 8 Features
+
+## Tools
+
+- Java
+- VS Code
+- Git
+- GitHub
